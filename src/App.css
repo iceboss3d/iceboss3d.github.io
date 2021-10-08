@@ -52,7 +52,7 @@
   }
 }
 
-@media screen and (max-width: 769px) {
+@media screen and (min-width: 769px) {
   .portrait {
     border-radius: 100%;
     width: 100%;
